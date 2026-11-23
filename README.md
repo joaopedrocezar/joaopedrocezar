@@ -1,74 +1,96 @@
 <div align="center">
 
-<img src="./assets/arena.svg" width="100%" alt="Animated retro pixel art fighting game: João Pedro vs Bug Lord" />
+<img src="./assets/hero.svg" width="100%" alt="João Pedro — Kinetic Identity" />
 
-<a href="./arcade/start.md"><img src="./assets/play.svg" width="30%" alt="Play arcade story" /></a>&nbsp;
-<a href="#character-select"><img src="./assets/roster.svg" width="30%" alt="Open character select" /></a>&nbsp;
-<a href="https://github.com/joaopedrocezar?tab=repositories"><img src="./assets/projects.svg" width="30%" alt="View repositories" /></a>
+<br />
 
-<sub><b>ORIGINAL PIXEL ART • ANIMATED SVG • INTERACTIVE STORY MODE</b></sub>
+<a href="#about">ABOUT</a> &nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="#stack">STACK</a> &nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="#activity">NOW</a> &nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="#stats">GITHUB</a> &nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://github.com/joaopedrocezar?tab=repositories">PROJECTS ↗</a>
+
+<br /><br />
+
+<sub>COMPUTER ENGINEERING STUDENT&nbsp; / &nbsp;FULL-STACK DEVELOPER&nbsp; / &nbsp;BRAZIL</sub>
 
 </div>
 
 ---
 
-<a id="character-select"></a>
+<a id="about"></a>
 
-<img src="./assets/character.svg" width="100%" alt="Character select: João Pedro Cezar, full stack developer, technology loadout" />
+<table border="0">
+<tr>
+<td width="62%" valign="top">
+
+### A little about me
+
+I'm João Pedro — a Computer Engineering student and full-stack developer interested in the details behind great digital products.
+
+I work across frontend, backend and infrastructure, with a focus on building useful interfaces and reliable systems.
+
+</td>
+<td width="38%" valign="middle" align="right">
+
+<img src="./assets/section-mark.svg" width="100%" alt="Continuously curious, always building" />
+
+</td>
+</tr>
+</table>
+
+<a id="stack"></a>
+
+### Selected tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,react,nodejs,nestjs,postgres,redis,docker,aws,git&theme=dark" alt="TypeScript, React, Node.js, NestJS, PostgreSQL, Redis, Docker, AWS and Git" />
+</p>
+
+<sub>TOOLS I USE TO DESIGN, BUILD, SHIP AND MAINTAIN SOFTWARE.</sub>
+
+---
+
+<a id="activity"></a>
+
+### Currently in motion
+
+<img src="./assets/activity.svg" width="100%" alt="Current focus: frontend experiences, backend systems and cloud infrastructure" />
 
 <details>
-<summary><b>🎮 OPEN PLAYER FILE / ABOUT ME</b></summary>
+<summary><strong>What I'm exploring</strong></summary>
 
-<br>
-
-I'm **João Pedro Cezar**, a developer and Computer Engineering student from Brazil.
-
-I enjoy building full-stack products, solving backend problems and getting systems reliably into production. My everyday toolkit includes **TypeScript, React, NestJS, PostgreSQL, Redis, Docker and AWS**.
-
-**Current quest:** keep learning, shipping and improving.
-
-</details>
-
-<details>
-<summary><b>⚡ SPECIAL MOVES / TECH LOADOUT</b></summary>
-
-<br>
-
-| Move | Loadout | Effect |
-| :-- | :-- | :-- |
-| **PIXEL PERFECT** | React · TypeScript | Build responsive interfaces |
-| **API BREAKER** | NestJS · Node.js | Develop APIs and services |
-| **DATA SHIELD** | PostgreSQL · Redis | Work with data and caching |
-| **CLOUD UPPERCUT** | Docker · AWS | Deploy and operate systems |
-| **COMBO EXTENDER** | C · Git | Learn fundamentals and improve workflows |
-
-</details>
-
-<details>
-<summary><b>🕹️ HOW TO PLAY / CONTROLS</b></summary>
-
-<br>
-
-This README has an interactive **choose-your-move** mini adventure. Click **START GAME** to battle the Bug Lord, choose an action and navigate to a different outcome.
-
-It uses standard GitHub Markdown links, with no JavaScript, installation or external game server.
-
-**Controls:** click a move → discover the result → continue or retry.
+- Full-stack product development
+- Backend architecture and API design
+- Cloud infrastructure, containers and CI/CD
+- Computer Engineering fundamentals
 
 </details>
 
 ---
 
+<a id="stats"></a>
+
+### GitHub, in numbers
+
+<div align="center">
+  <img height="158" src="https://github-readme-stats.vercel.app/api?username=joaopedrocezar&show_icons=true&hide_border=true&bg_color=171717&title_color=F4F0E8&text_color=AAA29A&icon_color=E77B55&ring_color=E77B55&include_all_commits=true" alt="GitHub statistics" />
+  &nbsp;
+  <img height="158" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedrocezar&layout=compact&hide_border=true&bg_color=171717&title_color=F4F0E8&text_color=AAA29A" alt="Most used programming languages" />
+</div>
+
+<div align="center">
+  <sub>LIVE DATA · GENERATED FROM PUBLIC GITHUB ACTIVITY</sub>
+</div>
+
+---
+
 <div align="center">
 
-### ROUND 01 — PRODUCTION CITY
+<a href="https://github.com/joaopedrocezar?tab=repositories">EXPLORE MY WORK ↗</a>
 
-A mysterious bug has infiltrated production. The build is red. The timer is running.
+<br /><br />
 
-**Do you debug, deploy anyway, or roll back?**
-
-<a href="./arcade/start.md"><img src="./assets/play.svg" width="43%" alt="Play the interactive mini adventure" /></a>
-
-<sub>© CODE FIGHTER · An original arcade-inspired GitHub profile · No official game assets used</sub>
+<sub>DESIGNED WITH INTENTION. BUILT WITH CURIOSITY.</sub>
 
 </div>
