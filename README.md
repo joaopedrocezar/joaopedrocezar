@@ -1,96 +1,117 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="João Pedro — Kinetic Identity" />
+<img src="./assets/hero.svg" width="100%" alt="João Pedro Cezar — Kinetic Identity. Editorial typography and an original floating ceramic, stone and chrome sculpture." />
 
-<br />
+<br/>
 
-<a href="#about">ABOUT</a> &nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="#stack">STACK</a> &nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="#activity">NOW</a> &nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="#stats">GITHUB</a> &nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://github.com/joaopedrocezar?tab=repositories">PROJECTS ↗</a>
+<a href="#about">ABOUT</a> &nbsp;&nbsp; / &nbsp;&nbsp;
+<a href="#selected-tools">TOOLS</a> &nbsp;&nbsp; / &nbsp;&nbsp;
+<a href="#currently">CURRENTLY</a> &nbsp;&nbsp; / &nbsp;&nbsp;
+<a href="#selected-data">DATA</a> &nbsp;&nbsp; / &nbsp;&nbsp;
+<a href="https://github.com/joaopedrocezar?tab=repositories">WORK ↗</a>
 
-<br /><br />
+<br/><br/>
 
-<sub>COMPUTER ENGINEERING STUDENT&nbsp; / &nbsp;FULL-STACK DEVELOPER&nbsp; / &nbsp;BRAZIL</sub>
+<sub>INDEPENDENT THINKING. CONTINUOUS BUILDING.</sub>
 
 </div>
 
----
+<img src="./assets/section-mark.svg" width="100%" alt="Form follows curiosity." />
 
 <a id="about"></a>
 
-<table border="0">
-<tr>
-<td width="62%" valign="top">
+### 01 / ABOUT
 
-### A little about me
+**João Pedro Cezar** — Computer Engineering student and full-stack developer based in Brazil.
 
-I'm João Pedro — a Computer Engineering student and full-stack developer interested in the details behind great digital products.
-
-I work across frontend, backend and infrastructure, with a focus on building useful interfaces and reliable systems.
-
-</td>
-<td width="38%" valign="middle" align="right">
-
-<img src="./assets/section-mark.svg" width="100%" alt="Continuously curious, always building" />
-
-</td>
-</tr>
-</table>
-
-<a id="stack"></a>
-
-### Selected tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,react,nodejs,nestjs,postgres,redis,docker,aws,git&theme=dark" alt="TypeScript, React, Node.js, NestJS, PostgreSQL, Redis, Docker, AWS and Git" />
-</p>
-
-<sub>TOOLS I USE TO DESIGN, BUILD, SHIP AND MAINTAIN SOFTWARE.</sub>
-
----
-
-<a id="activity"></a>
-
-### Currently in motion
-
-<img src="./assets/activity.svg" width="100%" alt="Current focus: frontend experiences, backend systems and cloud infrastructure" />
+I build interfaces and backend systems, and work across application development, infrastructure and product thinking.
 
 <details>
-<summary><strong>What I'm exploring</strong></summary>
+<summary><strong>READ MORE / A SHORT INTRODUCTION ↗</strong></summary>
 
-- Full-stack product development
-- Backend architecture and API design
-- Cloud infrastructure, containers and CI/CD
-- Computer Engineering fundamentals
+<br/>
+
+I enjoy exploring how software is designed, developed, tested and operated — from the smallest interaction to the systems supporting it. I am especially interested in thoughtful interfaces, robust APIs and pragmatic engineering.
 
 </details>
 
 ---
 
-<a id="stats"></a>
+<a id="selected-tools"></a>
 
-### GitHub, in numbers
+### 02 / SELECTED TOOLS
+
+<sub>THE TOOLS ARE NOT THE WORK. THEY MAKE THE WORK POSSIBLE.</sub>
+
+<br/><br/>
+
+`TYPESCRIPT` &nbsp; / &nbsp; `REACT` &nbsp; / &nbsp; `NESTJS` &nbsp; / &nbsp; `NODE.JS`
+
+`POSTGRESQL` &nbsp; / &nbsp; `REDIS` &nbsp; / &nbsp; `DOCKER` &nbsp; / &nbsp; `AWS`
+
+<details>
+<summary><strong>VIEW TECHNOLOGY ICONS ↗</strong></summary>
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=ts,react,nestjs,nodejs,postgres,redis,docker,aws,git&theme=light&perline=9" alt="TypeScript, React, NestJS, Node.js, PostgreSQL, Redis, Docker, AWS and Git" />
+
+</details>
+
+---
+
+<a id="currently"></a>
+
+<img src="./assets/activity.svg" width="100%" alt="Currently in motion: build, learn, iterate. Full-stack development, cloud infrastructure and computer engineering." />
+
+<details>
+<summary><strong>CURRENTLY EXPLORING ↗</strong></summary>
+
+<br/>
+
+- Full-stack product development
+- Backend architecture and API design
+- Cloud infrastructure, containers and CI/CD
+- Computer Engineering
+
+</details>
+
+---
+
+<a id="selected-data"></a>
+
+### 03 / SELECTED DATA
+
+<sub>GITHUB ACTIVITY / A TECHNICAL FOOTNOTE, NOT THE MAIN STORY.</sub>
+
+<details>
+<summary><strong>OPEN GITHUB STATISTICS ↗</strong></summary>
+
+<br/>
 
 <div align="center">
-  <img height="158" src="https://github-readme-stats.vercel.app/api?username=joaopedrocezar&show_icons=true&hide_border=true&bg_color=171717&title_color=F4F0E8&text_color=AAA29A&icon_color=E77B55&ring_color=E77B55&include_all_commits=true" alt="GitHub statistics" />
-  &nbsp;
-  <img height="158" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedrocezar&layout=compact&hide_border=true&bg_color=171717&title_color=F4F0E8&text_color=AAA29A" alt="Most used programming languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=joaopedrocezar&show_icons=true&hide_border=true&bg_color=E8E7E3&title_color=1F1F1F&text_color=555555&icon_color=555555&ring_color=999999" width="48%" alt="GitHub statistics from a third-party service" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedrocezar&layout=compact&hide_border=true&bg_color=E8E7E3&title_color=1F1F1F&text_color=555555" width="48%" alt="GitHub language distribution from a third-party service" />
 </div>
 
-<div align="center">
-  <sub>LIVE DATA · GENERATED FROM PUBLIC GITHUB ACTIVITY</sub>
-</div>
+<sub>Dynamic statistics rely on a third-party service and may occasionally be unavailable.</sub>
+
+</details>
 
 ---
 
 <div align="center">
 
-<a href="https://github.com/joaopedrocezar?tab=repositories">EXPLORE MY WORK ↗</a>
+<sub>04 / SELECTED WORK</sub>
 
-<br /><br />
+<br/><br/>
 
-<sub>DESIGNED WITH INTENTION. BUILT WITH CURIOSITY.</sub>
+<strong><a href="https://github.com/joaopedrocezar?tab=repositories">EXPLORE REPOSITORIES ↗</a></strong>
+
+<br/><br/>
+
+<img src="./assets/section-mark.svg" width="100%" alt="Kinetic Identity footer" />
+
+<sub>JOÃO PEDRO CEZAR © 2026 &nbsp;&nbsp;·&nbsp;&nbsp; DESIGN / ENGINEERING / SYSTEMS</sub>
 
 </div>
