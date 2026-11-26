@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="João Pedro Cezar — Kinetic Identity. Editorial typography and an original floating ceramic, stone and chrome sculpture." />
+<img src="./assets/identity-editorial-v2.svg" width="100%" alt="João Pedro Cezar — Kinetic Identity. Editorial typography and an original floating ceramic, stone and chrome sculpture." />
 
 <br/>
 
@@ -16,7 +16,7 @@
 
 </div>
 
-<img src="./assets/section-mark.svg" width="100%" alt="Form follows curiosity." />
+<img src="./assets/divider-editorial-v2.svg" width="100%" alt="Form follows curiosity." />
 
 <a id="about"></a>
 
@@ -62,7 +62,7 @@ I enjoy exploring how software is designed, developed, tested and operated — f
 
 <a id="currently"></a>
 
-<img src="./assets/activity.svg" width="100%" alt="Currently in motion: build, learn, iterate. Full-stack development, cloud infrastructure and computer engineering." />
+<img src="./assets/currently-editorial-v2.svg" width="100%" alt="Currently in motion: build, learn, iterate. Full-stack development, cloud infrastructure and computer engineering." />
 
 <details>
 <summary><strong>CURRENTLY EXPLORING ↗</strong></summary>
@@ -110,7 +110,7 @@ I enjoy exploring how software is designed, developed, tested and operated — f
 
 <br/><br/>
 
-<img src="./assets/section-mark.svg" width="100%" alt="Kinetic Identity footer" />
+<img src="./assets/divider-editorial-v2.svg" width="100%" alt="Kinetic Identity footer" />
 
 <sub>JOÃO PEDRO CEZAR © 2026 &nbsp;&nbsp;·&nbsp;&nbsp; DESIGN / ENGINEERING / SYSTEMS</sub>
 
